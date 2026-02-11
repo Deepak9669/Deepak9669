@@ -4,6 +4,10 @@
 
 </h1>
 
+ <br><br>
+  <img src="https://img.shields.io/badge/🌱%20Currently%20Exploring-SpringBoot,%20Angular-brightgreen?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Currently Exploring"/>
+  <img src="https://img.shields.io/badge/🚀%20Open%20Source-Contributor-blueviolet?style=for-the-badge&logo=github&logoColor=white" alt="Open Source"/>
+</div>
 
 <!-- <h1 align="center">Hi 👋, I'm Deepak Verma</h1>
 <h3 align="center">A passionate full-stack developer from India</h3> -->
