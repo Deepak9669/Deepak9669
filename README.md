@@ -1,27 +1,21 @@
 
-<!-- Animated Name Heading -->
+<!-- Professional Animated Name Heading -->
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=1AF700&center=true&vCenter=true&width=550&lines=Hi+I'm+Deepak;A+Fullstack+Developer+from+India" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&pause=1200&color=00D9FF&center=true&vCenter=true&width=650&height=60&lines=Hi%2C+I'm+Deepak+Verma+%F0%9F%91%8B;Java+Full+Stack+Developer;Spring+Boot+%7C+Angular+%7C+MySQL" alt="Deepak Verma - Full Stack Developer" />
 </h1>
 
-<br><br>
+<h3 align="center">
+  💻 Java Full Stack Developer | India 🇮🇳
+</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🌱%20Currently%20Exploring-SpringBoot,%20Angular-brightgreen?style=for-the-badge&logo=springboot&logoColor=white" alt="Currently Exploring"/>
-  <img src="https://img.shields.io/badge/🎨%20Frontend-Bootstrap-blueviolet?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  <img src="https://img.shields.io/badge/🚀%20CI%2FCD-Jenkins%20%7C%20GitHub%20Actions-blue?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD"/>
-  <img src="https://img.shields.io/badge/🌍%20Open%20Source-Contributor-blueviolet?style=for-the-badge&logo=github&logoColor=white" alt="Open Source"/>
+  Building scalable web applications with Java, Spring Boot and Angular.
 </p>
 
-<!-- Contact -->
-- 📫 How to reach me: **dv6334934@gmail.com**
-
----
-
-### 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=deepak9669&theme=flat&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-### 📊
+<p align="center">
+  <img src="https://img.shields.io/badge/Backend-Java%20%7C%20Spring%20Boot-orange?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Frontend-Angular%20%7C%20Bootstrap-red?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Database-MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI%2FCD-Jenkins%20%7C%20GitHub%20Actions-black?style=for-the-badge&logo=githubactions&logoColor=white" />
+</p>
